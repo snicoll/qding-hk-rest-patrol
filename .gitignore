@@ -1,0 +1,7 @@
+/target/
+/.classpath
+/qding-hk-user-api.iml
+qding-hk-rest-task.properties
+qding-hk-rest-task.properties.lock
+*.iml
+.idea
